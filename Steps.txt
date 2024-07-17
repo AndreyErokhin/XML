@@ -27,12 +27,14 @@ git push
 
 Создать файл preferences.xml;
 touch preferences.xml
+git add preferences.xml
 
 В файл preferences.xml добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, страна, которую хотели бы посетить) в формате XML;
 vim preferences.xml
 
 Создать файл sklls.xml добавить информацию о скиллах которые будут изучены на курсе в формате XML;
 touch skills.xml
+git add skills.xml
 vim skills.xml
 
 Сделать коммит в одну строку;
