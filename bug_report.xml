@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bug_Report>
+<ID>1</ID>
+<Author>Andrey Erokhin</Author>
+<Summary>Главная страница https://guru.qahacking.ru/: отсутствие гиперссылки в заголовке "Лайфхак - как получить от жизни всё!"</Summary>
+<Description>При загрузке главной страницы в правом верхнем углу в заголовке "Лайфхак - как получить от жизни всё!" отсутствует гиперссылка на статью.</Description>
+<Expected_result>Переход по ссылке на соответствующую статью при нажатии на заголовок "Лайфхак - как получить от жизни всё!"</Expected_result>
+<Environment>Win 10 22H2 v. 19045.4412, Яндекс Браузер v. 24.4.3.1012</Environment>
+<Severity>Major</Severity>
+<Priority>High</Priority>
+<Attachments>*Screenshot*</Attachments>
+</Bug_Report>
